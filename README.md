@@ -13,7 +13,7 @@ I work on:
 ## Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=lua,python,cs,js,html,css" />
-  <img src="https://skillicons.dev/icons?i=vscode,github,linux,nginx,roblox,discord" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,linux,nginx" />
 </p>
 
 ---
